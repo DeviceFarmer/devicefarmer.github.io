@@ -1,22 +1,22 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Device Farmer",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://devicefarmer.github.io/",
+    "feed_url": "https://devicefarmer.github.io/feed.json",
     "description": "Device Farmer is a web application for debugging smartphones, smartwatches and other gadgets remotely, from the comfort of your browser.",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "https://devicefarmer.github.io/apple-touch-icon.png",
+    "favicon": "https://devicefarmer.github.io/favicon.ico",
     "expired": false,
     
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/07/11/rebranding",
+            "id": "https://devicefarmer.github.io/2020/07/11/rebranding",
             "title": "Open STF superseded by Device Farmer",
             "summary": null,
             "content_text": "Active development of Open STF project has been moved to Device Farmer.Check out the readme for more info.",
             "content_html": "<p>Active development of Open STF project has been moved to Device Farmer.</p><p>Check out the <a href=\"https://github.com/DeviceFarmer/stf#devicefarmer-vs-openstf-faq\">readme</a> for more info.</p>",
-            "url": "http://localhost:4000/2020/07/11/rebranding",
+            "url": "https://devicefarmer.github.io/2020/07/11/rebranding",
             
             
             
