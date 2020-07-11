@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open STF superseded by Device Farmer"
-date:   2020-06-29 01:36:24 +0200
+date:   2020-07-11 01:36:24 +0200
 categories: releases
 ---
 

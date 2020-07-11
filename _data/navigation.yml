@@ -1,0 +1,5 @@
+links:
+- title: News
+  url: /
+- title: Rss
+  url: /atom.xml
